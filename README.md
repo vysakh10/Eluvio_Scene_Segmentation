@@ -3,7 +3,7 @@
 ## EDA
 Contains data analysis of the data in hand
 
-## LGSS_Model
+## LGSS_Model_1
 Contains the implementation of the architecture mentioned in the paper 'A Local-to-Global Approach to Multi-modal Movie Scene Segmentation'. Here the data is trained is such a way that each shot is considered as a different data point.
 
 ## LGSS_Model with SA
